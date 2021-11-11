@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-<img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/pacstall?style=flat-square" loading="lazy">
+<img href="https://reddit.com/r/pacstall" alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/pacstall?style=flat-square" loading="lazy">
 <a href="https://discord.gg/yzrjXJV6K8"><img src="https://img.shields.io/discord/839818021207801878?color=5865F2&label=Discord&logo=discord&logoColor=FFFFFF&style=flat-square" loading="lazy"></a>
 <a href="https://matrix.to/#/#pacstall:matrix.org"><img src="https://img.shields.io/matrix/pacstall:matrix.org?color=888888&label=Matrix&logo=Matrix&style=flat-square" loading="lazy"></a>
   
