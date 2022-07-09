@@ -14,6 +14,6 @@
 <a href="https://matrix.to/#/#pacstall:matrix.org"><img src="https://img.shields.io/matrix/pacstall:matrix.org?color=0DBD8B&label=Matrix&logo=Matrix&style=for-the-badge" loading="lazy"></a>
   
   <p align="center">
-  <a href="https://github.com/pacstall/pacstall/wiki/How-to-contribute">If your interesting in helping us in any way, we have a list of possible ways to contribute</a>
+  <a href="https://github.com/pacstall/pacstall/wiki/How-to-contribute">If you're interested in helping us in any way, we have a list of possible ways to contribute.</a>
     </p>
 </p>
